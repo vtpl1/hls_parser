@@ -1,0 +1,8 @@
+[package]
+name = "hls_parser"
+version = "0.1.0"
+authors = ["monotosh <monotosh.das@videonetics.com>"]
+
+[dependencies]
+clap = "2"
+reqwest = "0.9"
